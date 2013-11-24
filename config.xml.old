@@ -1,0 +1,4 @@
+<gap:plugin name="com.phonegap.plugins.facebookconnect">
+    <param name="APP_ID" value="621130871287932" />
+    <param name="APP_NAME" value="Rétrotest" />
+</gap:plugin>
